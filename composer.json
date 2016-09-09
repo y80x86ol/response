@@ -1,0 +1,26 @@
+{
+  "name": "y80x86ol/response",
+  "type": "library",
+  "description": "通用PHP响应类",
+  "keywords": [
+    "response",
+    "PHP"
+  ],
+  "license": "MIT",
+  "version": "0.1",
+  "authors": [
+    {
+      "name": "y80x86ol",
+      "email": "y80x86ol@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">= 5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ken\\Response\\": "src"
+    }
+  }
+}
