@@ -3,7 +3,7 @@
 /**
  * 通用响应类
  */
-namespace ken\Response;
+namespace Y80x86ol\Response;
 
 class Response {
     private $uri = "";
